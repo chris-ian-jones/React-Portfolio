@@ -6,9 +6,9 @@ import { Link } from 'react-router-dom';
 
 const StyledNavContainer = styled.div`
     width: 100vw;
-    height: 68px;
+    height: 7.5vh;
     background-color: #242840;
-    border: 1px dashed #9AC5C9;
+    border-bottom: 1px dashed #9AC5C9;
     display: flex;
 `
 
